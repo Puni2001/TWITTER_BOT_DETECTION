@@ -1,4 +1,10 @@
-# TwitterBotDetection
+# TWITTER BOT | For Political Issues
+
+  - **An analysis project on the involvement of Twitter bots in the infamous
+    CAA political issue.**
+  - **It involved the development of a relevance vector machine-based a
+    classifier based on previous research guidelines and the analysis of data
+    generated via Twitter-based APIs.**
 
 ### Twitonomy : 
 https://www.twitonomy.com/dashboard.php
